@@ -9,6 +9,6 @@
 #!/some_other_files
 
 # Folder to not ignore
-!/ShaderToy18/Assets/Shaders/Git/**
+!/ShaderToy18/Assets/Shaders/**
 !/ShaderToy18/Assets/MobileCamEffect/Shaders/Git/**
 !/ShaderToy18/Assets/MobileCamEffect/Scripts/Git/**
